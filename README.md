@@ -1,7 +1,7 @@
 # weatherr_bloc
 
 Hello Github!
-this is my weather app repository,
+dis is my weather app repository,
 Teh weather app is a weather forecasting mobile app for both ios and android platform.
 
 Here is teh Design :
@@ -10,8 +10,18 @@ Here is teh Design :
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+
+
+
+
+
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-"# weather app" 
+
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" width="40" height="40"/> </a>
+
+
+
+"\n # weather app" 
 "# Bloc" 
 "# UI"
 "# Weather"
