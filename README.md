@@ -2,11 +2,18 @@
 
 Hello Github!
 this is my weather app repository,
-The weather app is a weather forecasting mobile app for both ios and android platform.
+Teh weather app is a weather forecasting mobile app for both ios and android platform.
 
-Here is the Design :
+Here is teh Design :
 
 ![Group 952](https://user-images.githubusercontent.com/56448015/149470051-5d3996ef-32d8-458e-a6f2-e33569f50bb1.png)
 
-"# weather" 
-"# weather" 
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+"# weather app" 
+"# Bloc" 
+"# UI"
+"# Weather"
+"# state mangement"
+
