@@ -15,9 +15,9 @@ Here is teh Design :
 
 
 
-"# weather app" 
-"# Bloc" 
-"# UI"
-"# Weather"
-"# state mangement"
+"weather app" 
+"Bloc" 
+"UI"
+"Weather"
+"state mangement"
 
